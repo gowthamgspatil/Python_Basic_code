@@ -1,12 +1,6 @@
 # Python_Basic_code
 
-Here is a **complete README.md** file you can use for your GitHub repository [`Python_Basic_code`](https://github.com/gowthamgspatil/Python_Basic_code). You can copy and paste this into your repository's `README.md` file to make it clear, beginner-friendly, and professional:
-
----
-
-#  Python Basic Code Repository
-
-Welcome to the **Python Basic Code** repository!
+Welcome to the **Python Basic Code**
 This project is designed to help **beginners** learn Python programming through simple and practical code examples. Whether you're just starting or brushing up on Python basics, this collection will guide you step by step.
 
 ##  Repository Structure
