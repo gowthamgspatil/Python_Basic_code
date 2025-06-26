@@ -1,45 +1,31 @@
 
-## 🐍 Python Basics for Beginners
-
-### 1. **What is Python?**
-
+Python Basics for Beginners
+1. What is Python?
 Python is a high-level, easy-to-read programming language used in web development, data analysis, artificial intelligence, automation, and more.
 
----
 
-### 2. **Hello, World!**
-
-```python
+2. Hello, World
 print("Hello, World!")
-```
 
-* `print()` is used to display output.
+print() is used to display output.
 
----
 
-### 3. **Variables and Data Types**
+3. Variables and Data Types
 
-```python
 name = "Alice"       # string
 age = 25             # integer
 height = 5.6         # float
 is_student = True    # boolean
-```
 
----
 
-### 4. **User Input**
+4. User Input
 
-```python
 name = input("What is your name? ")
 print("Hello, " + name)
-```
 
----
 
-### 5. **Basic Operations**
+5. Basic Operations
 
-```python
 x = 10
 y = 3
 
@@ -49,71 +35,54 @@ print(x * y)  # Multiplication
 print(x / y)  # Division
 print(x % y)  # Modulus
 print(x ** y) # Power
-```
 
----
 
-### 6. **Conditional Statements**
+6. Conditional Statements
 
-```python
 age = 18
 if age >= 18:
     print("You are an adult.")
 else:
     print("You are a minor.")
-```
 
----
 
-### 7. **Loops**
+7. Loops
 
-**For Loop:**
+For Loop:
 
-```python
 for i in range(5):
     print(i)
-```
 
-**While Loop:**
+While Loop:
 
-```python
 count = 0
 while count < 5:
     print(count)
     count += 1
-```
 
----
 
-### 8. **Functions**
+8. Functions
 
-```python
 def greet(name):
     print("Hello, " + name)
 
 greet("Alice")
-```
 
----
 
-### 9. **Lists**
+9. Lists
 
-```python
+
 fruits = ["apple", "banana", "cherry"]
 print(fruits[0])      # Accessing elements
 fruits.append("date") # Adding an element
-```
 
----
 
-### 10. **Dictionaries**
+10. Dictionaries
 
-```python
 person = {
     "name": "Alice",
     "age": 25
 }
 print(person["name"])
-```
 
 
