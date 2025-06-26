@@ -1,0 +1,36 @@
+Python Basics with Output
+
+This repository contains beginner-level Python programs along with their respective output screenshots. It's a helpful resource for those who are just getting started with Python.
+
+Folder Structure
+
+Each folder contains:
+- .py file with Python code
+- output.png showing the result of running the code
+ 
+Beginner Python Projects (1–20):
+
+1. Hello World GUI
+2. Number Guessing Game
+3. Calculator
+4. To-Do List App
+5. Weather App
+6. Web Scraper
+7. Basic Flask App
+8. Hangman Game
+9. Dice Roller
+10.Currency Converter
+11.Text-Based Game
+12.Random Password Generator
+13.Basic Chatbot
+14.Image Downloader
+15.Basic Data Visualization
+16.Flashcard Quiz App
+17.URL Shortener
+18.Rock, Paper, Scissors
+19.Alarm Clock
+20.Guess the Word Game
+
+✅ Usage
+You can clone or download this repository to practice or reference basic Python concepts. Feel free to use or modify for learning purposes.
+
